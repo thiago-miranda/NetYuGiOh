@@ -15,4 +15,3 @@ $('.owl-carousel').owlCarousel({
     }
 })
 
-$(".js-modal-btn").modalVideo();
